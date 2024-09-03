@@ -1,2 +1,2 @@
-# Task-Scheduler-C
+# Task-Scheduler
 A C program to schedule a finite set of tasks parameterized by deadlines and penalties with minimal total cost
